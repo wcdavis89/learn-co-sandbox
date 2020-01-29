@@ -1,0 +1,11 @@
+	Say hello
+  This is a list of the best comic books shops in America
+	Which Shop do you want to see more about? Numbered list
+	Name, Location, Website, description
+	Would you like to see another store?
+	If yes, main menu
+	If no, Would you like to exit?
+	If yes, exit application
+	If no, stay on page.
+	Ask again
+	If invalid number entered, puts, “Sorry, our list doesn’t go that far. Please put in a number from 1-20.”
